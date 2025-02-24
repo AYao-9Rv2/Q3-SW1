@@ -1,0 +1,22 @@
+body{
+	text-align: center;
+	background-color: #9FBBCC;
+
+.sour-gummy-<uniquifier> {
+    font-family: "Sour Gummy", serif;
+}
+
+img {
+	margin-top: 50px;
+	width: 20%;
+	height: 20%;
+}
+
+div {
+	margin: 20px;
+	padding: 20px;
+	background-color: white;
+}
+
+
+
